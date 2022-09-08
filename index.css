@@ -44,7 +44,7 @@ body {
     margin-bottom: 0;
     
 }
-#guest-score {
+#away-score {
     background: #0a0001;
     font-size: 90px;
     color: #F94F6D;
@@ -72,9 +72,9 @@ body {
     border-radius: 5px;
     margin-left: 14px ;
 }
-#guest-score-btn-1,
-#guest-score-btn-2,
-#guest-score-btn-3{
+#away-score-btn-1,
+#away-score-btn-2,
+#away-score-btn-3{
     color: #9AABD8;
     width: 45px;
     height: 45px;
